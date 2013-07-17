@@ -1,0 +1,8 @@
+language: scala
+scala:
+   - 2.8.0
+   - 2.9.2
+branches:
+  only:
+    - 0.8
+    - 0.8.0-beta1-candidate1
